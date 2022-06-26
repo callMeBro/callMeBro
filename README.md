@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @callMeBro
-- 👀 I’m interested in web developmwnt
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning express, json and mongodb
 - 💞️ I’m looking to collaborate on any of my project posted or ideas you might have 
 - 📫 How to reach me?
