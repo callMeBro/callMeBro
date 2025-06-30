@@ -35,7 +35,7 @@
 - Advanced API design
 - Cloud deployment
 - DevOps basics
-- React Naitive
+- React Native
 
 ---
 
@@ -48,19 +48,8 @@
 ---
 
 ### 📫 Reach me
-📬 [Email me](mailto:add.early@gmail.com)  
-📜 [Read my blog on Medium](https://medium.com/@addearly)  
-🐦 [Follow me on Twitter](https://twitter.com/add_early) *(optional)*
+📬 [Email me](mailto:adderleydex2@gmail.com)  
+📜 [Read my blog on Medium](https://medium.com/@adderleydex)  
+🐦 [Follow me on Threads](https://threads.com/add_early) 
 
----
 
-### 🧠 Why I'm Building
-
-> “Wait... this guy’s from here? And he’s building this? On his own? I could do this too.”  
-> — *That spark can change lives.*
-
-I’m building **visibility** for developers in The Bahamas and the Caribbean — showing what’s possible with just persistence and a laptop.
-
----
-
-_468+ contributions this year and counting..._
