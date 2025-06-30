@@ -9,8 +9,7 @@
 ### 💻 What I'm Working On
 
 - 🛍️ **Goatskin Online** — A full-stack Bahamian marketplace built with Django + React. Supports product/service vendors, checkout, and chat.
-- 🗂️ **Drivora** — Room and rental listings app with vendor dashboards.
-- 🧑🏿‍🍳 **Restaurant Ordering Platform** (Django): paused but valuable lessons learned.
+- 🗂️ **Drivora** — Logistics platform for Goatskin Online.
 - 📲 **React Native w/ Django Backend** — Mobile-first events app with QR support and real-time features.
 
 > *Many of these projects are in **private repositories** — but I share regular updates on Medium and dev threads.*
